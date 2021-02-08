@@ -1,5 +1,5 @@
 # Li-Fi Keyboard
-### Arduino based LED communication keyboard
+### 아두이노 기반 LED 통신 무선 키보드 (Arduino based LED communication keyboard)
 
 <br />
 
