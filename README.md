@@ -1,13 +1,26 @@
 # Li-Fi Keyboard
 ### Arduino based LED communication keyboard
-<img src="img1.jpg" width="700px"/>
 
-## Requirement
-#### Arduino * 2ea
-#### MX Compatible Switch * 8ea
-#### MX Compatible Keycap * 8ea
-#### LED * 1ea
-#### CDS * 1ea
-#### Wire
-#### 3mm Screw
-#### 3D Printer
+<br />
+
+<img src="img/img1.jpg" width="700px"/>
+
+<br />
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+----------------------------------------
+
+### 요구사항 (Requirement)
+| Name                 | Description |
+| -------------------- | :---------: |
+| Arduino              |     2ea     |
+| MX Compatible Switch |     8ea     |
+| MX Compatible Keycap |     8ea     |
+| BMS & LiPo           |      -      |
+| CDS * 1ea            |      -      |
+| 3mm Screw            |      -      |
+| PLA Filament         |      -      |
+| 3D Printer           |      -      |
+
+-----------------------------------------------
