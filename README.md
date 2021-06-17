@@ -10,6 +10,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ----------------------------------------
+### Summary
+[Google Drive](https://drive.google.com/drive/folders/1Ty6BFvXO7SNcPj76tcfbrAIMB9dhp4Xn?usp=sharing)
 
 ### 요구사항 (Requirement)
 | Name                 | Description |
