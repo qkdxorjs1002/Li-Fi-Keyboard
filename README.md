@@ -11,7 +11,7 @@
 
 ----------------------------------------
 ### Summary
-[Google Drive](https://drive.google.com/drive/folders/1Ty6BFvXO7SNcPj76tcfbrAIMB9dhp4Xn?usp=sharing)
+[Google Drive](https://drive.google.com/drive/folders/1b7dvXcPiOU_c4KDfSVUqPuMRzktWuaV_?usp=sharing)
 
 ### 요구사항 (Requirement)
 | Name                 | Description |
